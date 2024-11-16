@@ -6,3 +6,4 @@ Universidad Adventista de Bolivia
 Aux Adrian
 
 Alumnos de la materia:
+- LinkedIn: https://github.com/AdrianCalcinas/proyecto-final-taller-de-programacion
