@@ -12,7 +12,7 @@
 | 1 | WHATSAPP | [josecarlosrojas12/whatsap](https://github.com/josecarlosrojas12/whatsap) |
 | 2 | YOUTUBE |  [juniorsz-lol/base-de-datos](https://github.com/juniorsz-lol/base-de-datos) |
 | 3 | PINTEREST | [JairMenaN/PinterestTallerProgramacion](https://github.com/JairMenaN/PinterestTallerProgramacion) |
-| 4 | LOL | [Enlace Repositorio](URL del repositorio) |
+| 4 | LOL | [URL del repositorio](https://github.com/galmaraz/proyecto-taller-de-programacion.git) |
 | 5 | FACEBOOK | [Enlace Repositorio](URL del repositorio) |
 | 6 | INSTAGRAM | [AnthonyAdriazola/Instagram](https://github.com/AnthonyAdriazola/Instagram) |
 | 7 | STARCRAFT | [AlexanderDev26/StarCraft](https://github.com/AlexanderDev26/StarCraft) |
