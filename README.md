@@ -15,8 +15,8 @@
 | 4 | LOL | [Enlace Repositorio](URL del repositorio) |
 | 5 | FACEBOOK | [Enlace Repositorio](URL del repositorio) |
 | 6 | INSTAGRAM | [AnthonyAdriazola/Instagram](https://github.com/AnthonyAdriazola/Instagram) |
-| 7 | STARCRAFT | [Enlace Repositorio](URL del repositorio) |
-| 8 | SPOTIFY | [Enlace Repositorio](URL del repositorio) |
+| 7 | STARCRAFT | [AlexanderDev26/StarCraft](https://github.com/AlexanderDev26/StarCraft) |
+| 8 | SPOTIFY | [Jhurguen777/spotify](https://github.com/Jhurguen777/spotify) |
 | 9 | CALENDARIO(AGENDA) | [dlopez2003/agenda](https://github.com/dlopez2003/agenda) |
 | 10 | TIKTOK | [AlvaroRiveraCarhuani/PROYECTO-TALLER](https://github.com/AlvaroRiveraCarhuani/PROYECTO-TALLER) |
 | 11 | NETFLIX | [Enlace Repositorio](URL del repositorio) |
