@@ -19,7 +19,7 @@
 | 8 | SPOTIFY | [Jhurguen777/spotify](https://github.com/Jhurguen777/spotify) |
 | 9 | CALENDARIO(AGENDA) | [dlopez2003/agenda](https://github.com/dlopez2003/agenda) |
 | 10 | TIKTOK | [AlvaroRiveraCarhuani/PROYECTO-TALLER](https://github.com/AlvaroRiveraCarhuani/PROYECTO-TALLER) |
-| 11 | NETFLIX | [Enlace Repositorio](URL del repositorio) |
+| 11 | NETFLIX | [HTandayamo/Netflix](https://github.com/Htandayamo/PROYECT_NETFLIX.git) |
 | 12 | TWITTER | [jhammilleonardo/proyectoXtaller](https://github.com/jhammilleonardo/proyectoXtaller) |
 | 13 | CALL OF DUTY | [Elger-enrique-marquez-arze/proyectotaller](https://github.com/Elger-enrique-marquez-arze/proyectotaller) |
 | ... | | |
