@@ -16,7 +16,7 @@
 | 5 | FACEBOOK | [cluis2004/TallerUAB](https://github.com/cluis2004/TallerUAB) |
 | 6 | INSTAGRAM | [AnthonyAdriazola/Instagram](https://github.com/AnthonyAdriazola/Instagram) |
 | 7 | STARCRAFT | [AlexanderDev26/StarCraft](https://github.com/AlexanderDev26/StarCraft) |
-| 8 | SPOTIFY | [Jhurguen777/spotify](https://github.com/Jhurguen777/spotify) |
+| 8 | SPOTIFY | [rodrigo0308/Proyecto-spotify](https://github.com/rodrigo0308/Proyecto-spotify) |
 | 9 | CALENDARIO(AGENDA) | [dlopez2003/agenda](https://github.com/dlopez2003/agenda) |
 | 10 | TIKTOK | [AlvaroRiveraCarhuani/PROYECTO-TALLER](https://github.com/AlvaroRiveraCarhuani/PROYECTO-TALLER) |
 | 11 | NETFLIX | [HTandayamo/Netflix](https://github.com/Htandayamo/PROYECT_NETFLIX.git) |
