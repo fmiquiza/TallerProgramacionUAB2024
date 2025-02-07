@@ -1,3 +1,4 @@
+
 ![image](https://github.com/user-attachments/assets/066e8bbb-ba14-4a5b-9901-173ba14ec114)# Taller de Programación UAB 2024
 
 ## Información del Curso
@@ -25,4 +26,4 @@
 | ... | | |
 
 ## Descripción
-...
+....
